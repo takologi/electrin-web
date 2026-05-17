@@ -1,0 +1,14 @@
+[
+  {
+    "date": "2026-02-26",
+    "title": "Electrin 4.7.1rc1 released for testing",
+    "summary": "First public Rincoin release candidate with Linux AppImage, Windows installer/portable/standalone builds, Android APK, and source tarball.",
+    "url": "https://github.com/takologi/electrin/releases/tag/4.7.1rc1"
+  },
+  {
+    "date": "2026-05-16",
+    "title": "Electrin website migrated to Node.js",
+    "summary": "The website now runs on a lightweight Express app with JSON-driven content for easy updates.",
+    "url": "#"
+  }
+]

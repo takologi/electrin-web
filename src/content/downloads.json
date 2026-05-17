@@ -1,0 +1,41 @@
+[
+  {
+    "platform": "Windows",
+    "items": [
+      {
+        "label": "Installer (.exe)",
+        "url": "https://github.com/takologi/electrin/releases/download/4.7.1rc1/electrin-4.7.1rc1-1-g7a464a7df-setup.exe"
+      },
+      {
+        "label": "Portable (.exe)",
+        "url": "https://github.com/takologi/electrin/releases/download/4.7.1rc1/electrin-4.7.1rc1-1-g7a464a7df-portable.exe"
+      },
+      {
+        "label": "Standalone (.exe)",
+        "url": "https://github.com/takologi/electrin/releases/download/4.7.1rc1/electrin-4.7.1rc1-1-g7a464a7df.exe"
+      }
+    ]
+  },
+  {
+    "platform": "Linux",
+    "items": [
+      {
+        "label": "AppImage",
+        "url": "https://github.com/takologi/electrin/releases/download/4.7.1rc1/electrin-4.7.1rc1-1-g7a464a7df-x86_64.AppImage"
+      },
+      {
+        "label": "Source (.tar.gz)",
+        "url": "https://github.com/takologi/electrin/releases/download/4.7.1rc1/Electrin-4.7.1rc1.tar.gz"
+      }
+    ]
+  },
+  {
+    "platform": "Android",
+    "items": [
+      {
+        "label": "APK (arm64)",
+        "url": "https://github.com/takologi/electrin/releases/download/4.7.1rc1/electrin-4.7.1rc1-android-arm64-v8a.apk"
+      }
+    ]
+  }
+]

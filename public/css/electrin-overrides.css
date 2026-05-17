@@ -1,0 +1,55 @@
+#header {
+    height: 110px;
+}
+
+#logo {
+    width: 420px;
+    padding: 10px 0 0 0;
+}
+
+#electrum_text {
+    width: 300px;
+    height: 60px;
+    background: url(../logo/electrum_text.png) no-repeat 0 0;
+    background-size: 300px 60px;
+}
+
+#electrum_logo {
+    width: 70px;
+    height: 70px;
+    background: url(../logo/electrum_logo.png) no-repeat 0 0;
+    background-size: 70px 70px;
+}
+
+#logo_subtitle {
+    display: block;
+    margin-top: 2px;
+}
+
+.button,
+.highlight pre {
+    border-radius: 0 !important;
+    -moz-border-radius: 0 !important;
+    -webkit-border-radius: 0 !important;
+}
+
+.downloads {
+    border-radius: 0;
+}
+
+.downloads code {
+    color: #111111;
+}
+
+#social-icons a {
+    margin-left: 6px;
+}
+
+#footer {
+    background: #222222;
+}
+
+.page h4 {
+    font-weight: normal;
+    margin-bottom: 0.6em;
+}

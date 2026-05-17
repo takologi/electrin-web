@@ -1,0 +1,102 @@
+[
+  {
+    "id": "darkbg",
+    "title": "Improve your Rincoin Experience",
+    "featured": 1,
+    "media": "",
+    "raw_link": "",
+    "description": [
+      "Electrin brings the classic Electrum wallet feel to Rincoin.<br/>",
+      "Fast startup, familiar workflow, and simple self-custody.<br/>",
+      "<br/>",
+      "Built for Rincoin users who want a lightweight desktop wallet.<br/>",
+      ""
+    ]
+  },
+  {
+    "id": "spv",
+    "title": "Do not trust. Verify.",
+    "featured": 1,
+    "media": "",
+    "raw_link": "",
+    "description": [
+      "Electrin verifies your transactions<br/>",
+      "through SPV-style proofs and indexed servers.<br/><br/>",
+      "Rincoin should stay open,<br/>",
+      "auditable and under your control."
+    ]
+  },
+  {
+    "id": "coldstorage",
+    "title": "Cold Storage",
+    "featured": 1,
+    "media": "",
+    "raw_link": "",
+    "description": [
+      "Sign transactions from a computer that<br/>",
+      "is always offline. Broadcast them from<br/>",
+      "a machine that does not have your keys."
+    ]
+  },
+  {
+    "id": "twofactor",
+    "title": "Testing Release Candidate",
+    "featured": 1,
+    "media": "",
+    "raw_link": "",
+    "description": [
+      "Public RC build for wider testing.<br/>",
+      "Back up your wallet and use<br/>",
+      "small amounts only during this phase."
+    ]
+  },
+  {
+    "id": "decentralized",
+    "title": "Free and Decentralized",
+    "featured": 1,
+    "media": "",
+    "raw_link": "",
+    "description": [
+      "Electrin is open-source software.<br/>",
+      "Released under the MIT License.<br/><br/>",
+      "Anyone can run a Fulcrum-rin server.<br/>",
+      "No single entity controls the network."
+    ]
+  },
+  {
+    "id": "textmode",
+    "title": "Multi-Platform",
+    "featured": 1,
+    "media": "",
+    "raw_link": "",
+    "description": [
+      "Electrin is available for Linux, Windows,<br/>",
+      "and Android testing builds,<br/>",
+      "with familiar Electrum-style UX."
+    ]
+  },
+  {
+    "id": "hardware",
+    "title": "Rincoin-focused Fork",
+    "featured": 1,
+    "media": "",
+    "raw_link": "<a href='https://github.com/takologi/electrin'>Project repository</a>",
+    "description": [
+      "Forked from Electrum 4.7.1 and adapted<br/>",
+      "for Rincoin chain parameters,<br/>",
+      "addresses, keys and servers."
+    ]
+  },
+  {
+    "id": "multisig",
+    "title": "Multisig",
+    "featured": 1,
+    "media": "",
+    "raw_link": "",
+    "description": [
+      "Split the permission<br/>",
+      "to spend your Rincoin<br/>",
+      "between several wallets."
+    ]
+  }
+]

@@ -1,0 +1,203 @@
+{
+  "name": "Electrin",
+  "tagline": "Rincoin Wallet",
+  "warning": "This is a release candidate build. Download only from the official release page and test with small amounts only.",
+  "latestVersion": "4.7.1rc1",
+  "releaseNotesUrl": "https://github.com/takologi/electrin/releases/tag/4.7.1rc1",
+  "previousReleasesUrl": "https://github.com/takologi/electrin/releases",
+  "githubUrl": "https://github.com/takologi/electrin",
+  "xUrl": "https://x.com/",
+  "hero": {
+    "title": "Secure Rincoin Wallet Experience",
+    "subtitle": "Fast, reliable, and easy-to-use wallet software for the Rincoin community.",
+    "ctaLabel": "Download Electrin",
+    "ctaHref": "#download"
+  },
+  "features": [
+    {
+      "title": "Safe",
+      "icon": "safe",
+      "text": "Your private keys are encrypted and never leave your computer."
+    },
+    {
+      "title": "Forgiving",
+      "icon": "seed",
+      "text": "Your funds can be recovered from a secret phrase."
+    },
+    {
+      "title": "Instant On",
+      "icon": "clock",
+      "text": "Electrin is fast, because it uses indexed servers for quick startup."
+    },
+    {
+      "title": "No Lock-In",
+      "icon": "exit",
+      "text": "You can export your private keys and use them in other Rincoin clients."
+    },
+    {
+      "title": "No Downtimes",
+      "icon": "blitz",
+      "text": "Electrin can use multiple servers; if one is unavailable, you can switch servers."
+    },
+    {
+      "title": "Proof Checking",
+      "icon": "spv",
+      "text": "Electrin verifies your transaction history using SPV-style server proofs."
+    },
+    {
+      "title": "Cold Storage",
+      "icon": "cold",
+      "text": "Keep your private keys offline, and go online with a watching-only wallet."
+    },
+    {
+      "title": "Multisig",
+      "icon": "multisig",
+      "text": "Split the permission to spend your Rincoin between several wallets."
+    },
+    {
+      "title": "Add-ons",
+      "icon": "plugins",
+      "text": "Electrin supports plugins and optional integrations such as hardware wallets."
+    }
+  ],
+  "slides": [
+    {
+      "id": "darkbg",
+      "title": "Improve your Rincoin Experience",
+      "description": "Electrin brings the classic Electrum wallet feel to Rincoin.<br/>Fast startup, familiar workflow, and simple self-custody.<br/><br/>Built for Rincoin users who want a lightweight desktop wallet.",
+      "link": ""
+    },
+    {
+      "id": "spv",
+      "title": "Do not trust. Verify.",
+      "description": "Electrin verifies your transactions<br/>through SPV-style proofs and indexed servers.<br/><br/>Rincoin should stay open,<br/>auditable and under your control.",
+      "link": ""
+    },
+    {
+      "id": "coldstorage",
+      "title": "Cold Storage",
+      "description": "Sign transactions from a computer that<br/>is always offline. Broadcast them from<br/>a machine that does not have your keys.",
+      "link": ""
+    },
+    {
+      "id": "decentralized",
+      "title": "Free and Decentralized",
+      "description": "Electrin is open-source software.<br/>Released under the MIT License.<br/><br/>Anyone can run a Fulcrum-rin server.<br/>No single entity controls the network.",
+      "link": ""
+    },
+    {
+      "id": "textmode",
+      "title": "Multi-Platform",
+      "description": "Electrin is available for Linux, Windows,<br/>and Android testing builds,<br/>with familiar Electrum-style UX.",
+      "link": ""
+    },
+    {
+      "id": "multisig",
+      "title": "Multisig",
+      "description": "Split the permission<br/>to spend your Rincoin<br/>between several wallets.",
+      "link": ""
+    }
+  ],
+  "community": {
+    "title": "Community Links",
+    "sections": [
+      {
+        "heading": "Project",
+        "items": [
+          {
+            "label": "GitHub Repository",
+            "url": "https://github.com/takologi/electrin",
+            "description": "Source code, commits, and issue tracking"
+          },
+          {
+            "label": "Release Notes",
+            "url": "https://github.com/takologi/electrin/releases/tag/4.7.1rc1",
+            "description": "Changelog and package list for the current RC"
+          },
+          {
+            "label": "Issue Tracker",
+            "url": "https://github.com/takologi/electrin/issues",
+            "description": "Report bugs and track fixes"
+          }
+        ]
+      },
+      {
+        "heading": "Infrastructure",
+        "items": [
+          {
+            "label": "Fulcrum-rin",
+            "url": "https://github.com/takologi/Fulcrum-rin",
+            "description": "Server implementation used by public Electrin endpoints"
+          },
+          {
+            "label": "Server status page",
+            "url": "https://1209k.com/bitcoin-eye/ele.php?chain=rin",
+            "urlLabel": "1209k.com / Bitcoin All Seeing Eye",
+            "description": "Third-party status overview"
+          },
+          {
+            "label": "Public test servers",
+            "codes": [
+              "peer1.rincoin.net:50002:s",
+              "peer2.rincoin.net:50002:s"
+            ],
+            "description": "Electrum SSL protocol endpoints"
+          }
+        ]
+      },
+      {
+        "heading": "Get Help",
+        "items": [
+          {
+            "label": "Open a support issue",
+            "url": "https://github.com/takologi/electrin/issues",
+            "description": "Best channel for bugs, sync issues, and installation help"
+          },
+          {
+            "label": "Browse previous releases",
+            "url": "https://github.com/takologi/electrin/releases",
+            "description": "Find older builds and historical release notes"
+          }
+        ]
+      }
+    ]
+  },
+  "aboutPage": {
+    "title": "About Electrin",
+    "sections": [
+      {
+        "heading": "About Electrin",
+        "paragraphs": [
+          "Electrin is a lightweight, non-custodial Rincoin wallet forked from Electrum and adapted for the Rincoin network.",
+          "It is designed to preserve the classic Electrum workflow while integrating Rincoin-specific infrastructure."
+        ]
+      },
+      {
+        "heading": "Project status",
+        "paragraphs": [
+          "Electrin 4.7.1rc1 is currently a release candidate build intended for wider testing before a stable release.",
+          "Use test-sized amounts, keep seed backups offline, and verify downloads from official release pages only."
+        ]
+      },
+      {
+        "heading": "Security model",
+        "paragraphs": [
+          "Electrin is non-custodial: private keys are generated and stored locally on your device.",
+          "You are responsible for protecting your recovery phrase, wallet files, and device security posture."
+        ]
+      },
+      {
+        "heading": "Disclaimer",
+        "paragraphs": [
+          "Software is provided as-is without warranty. You are responsible for securing backups and verifying downloads."
+        ]
+      }
+    ]
+  },
+  "about": "Electrin is a lightweight, non-custodial Rincoin wallet forked from Electrum and adapted for the Rincoin network.",
+  "disclaimer": "Software is provided as-is without warranty. You are responsible for securing backups and verifying downloads.",
+  "licenseUrl": "https://github.com/takologi/electrin",
+  "sourceUrl": "https://github.com/takologi/electrin-web",
+  "serverStatusUrl": "https://1209k.com/bitcoin-eye/ele.php?chain=rin",
+  "fulcrumUrl": "https://github.com/takologi/Fulcrum-rin"
+}
