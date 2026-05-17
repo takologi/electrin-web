@@ -35,6 +35,18 @@ app.get('/download', (_req, res) => {
   res.redirect('/#download');
 });
 
+app.get('/version', (_req, res) => {
+  try {
+    const { site } = loadContent();
+    res.json({
+      version: site.latestVersion,
+      signatures: {}
+    });
+  } catch (err) {
+    res.status(500).json({ error: 'Failed to fetch version' });
+  }
+});
+
 app.get('/', (_req, res, next) => {
   try {
     const { site, downloads, news } = loadContent();
